@@ -1,3 +1,6 @@
+# Release v0.1-alpha
+See release notes here: https://github.com/leonardjaviniar/randomizer/releases/tag/v0.1-alpha
+
 # Examples
 
 ```
